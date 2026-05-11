@@ -1,4 +1,4 @@
-# doc-organizer v1.3.1
+# smart-archivist v1.3.1
 
 AI 干货资料整理 skill 包，用于把截图 OCR、网页摘录、Prompt、工具教程、资源清单整理成可归档的知识库文档。
 
