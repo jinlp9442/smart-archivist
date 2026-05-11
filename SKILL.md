@@ -1,5 +1,5 @@
 ---
-name: doc-organizer
+name: smart-archivist
 description: AI 干货资料整理官：把截图、网页摘录、Prompt、工具教程、资源清单整理成可检索、可复用、可归档的知识库文档
 version: "1.9.0"
 updated: "2026-05-10"
