@@ -1,13 +1,12 @@
 {
   "creator": {
     "avatar": "https://avatar.qwps.cn/avatar/6YeR5bGl5bmz",
-    "id": "1818019601",
-    "name": "金履平"
+    "name": "King"
   },
   "display_name": "smart-archivist",
   "from": "preinstall",
   "hasInstall": true,
-  "name": "doc-organizer",
+  "name": "smart-archivist",
   "ns": "ent",
   "skill_id": 4643,
   "version": "1.0.3"
